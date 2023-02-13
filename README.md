@@ -1,4 +1,4 @@
-# A simple starter for TDD in C# and .NET.
+# TDD Starter for C#
 
 This project provides a simple starter for TDD and uses the [NUnit Framework](https://nunit.org/) for testing. More information on how to use NUnit with C# can be found [here](https://learn.microsoft.com/en-us/dotnet/core/testing/unit-testing-with-nunit).
 
@@ -13,4 +13,3 @@ You can execute the tests directly in your IDE or by running the following comma
 ```shell
 dotnet test
 ```
-
